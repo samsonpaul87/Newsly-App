@@ -83,3 +83,6 @@ Thumbs.db
 
 # Sentry Config File
 sentry.properties
+
+# Sentry Wizard binary
+sentry-wizard
