@@ -1,0 +1,14 @@
+# Copy this file to local.properties and fill in your values
+# DO NOT commit local.properties to version control
+
+# Android SDK location
+sdk.dir=/path/to/your/Android/Sdk
+
+# News API Key (get from https://newsapi.org)
+NEWS_API_KEY=your_news_api_key_here
+
+# Sentry Configuration (get from https://sentry.io)
+SENTRY_DSN=https://your-key@o123456.ingest.sentry.io/project-id
+SENTRY_ORG=your-organization-slug
+SENTRY_PROJECT=your-project-name
+SENTRY_AUTH_TOKEN=your-auth-token

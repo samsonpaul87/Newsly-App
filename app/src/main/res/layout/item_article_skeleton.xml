@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/spacing_md"
+    app:cardCornerRadius="@dimen/card_corner_radius"
+    app:cardElevation="@dimen/card_elevation"
+    app:strokeWidth="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Image placeholder -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/card_image_height"
+            android:background="@drawable/bg_shimmer" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/spacing_md">
+
+            <!-- Source placeholder -->
+            <View
+                android:layout_width="80dp"
+                android:layout_height="12dp"
+                android:background="@drawable/bg_shimmer" />
+
+            <!-- Title placeholder -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="18dp"
+                android:layout_marginTop="@dimen/spacing_sm"
+                android:background="@drawable/bg_shimmer" />
+
+            <View
+                android:layout_width="200dp"
+                android:layout_height="18dp"
+                android:layout_marginTop="@dimen/spacing_xs"
+                android:background="@drawable/bg_shimmer" />
+
+            <!-- Description placeholder -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="14dp"
+                android:layout_marginTop="@dimen/spacing_sm"
+                android:background="@drawable/bg_shimmer" />
+
+            <View
+                android:layout_width="150dp"
+                android:layout_height="14dp"
+                android:layout_marginTop="@dimen/spacing_xs"
+                android:background="@drawable/bg_shimmer" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

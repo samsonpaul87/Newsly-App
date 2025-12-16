@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Newsly</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_bookmarks">Bookmarks</string>
+
+    <!-- Home Screen -->
+    <string name="top_headlines">Top Headlines</string>
+    <string name="search_news">Search news…</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+
+    <!-- Article Detail -->
+    <string name="article_detail">Article</string>
+    <string name="read_more">Read Full Article</string>
+    <string name="share">Share</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="remove_bookmark">Remove Bookmark</string>
+    <string name="open_in_browser">Open in Browser</string>
+
+    <!-- Bookmarks -->
+    <string name="bookmarks">Bookmarks</string>
+    <string name="no_bookmarks">No bookmarks yet</string>
+    <string name="no_bookmarks_subtitle">Save articles to read later</string>
+
+    <!-- States -->
+    <string name="loading">Loading…</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_api">Failed to load news</string>
+    <string name="retry">Retry</string>
+    <string name="empty_results">No articles found</string>
+    <string name="empty_search">Try a different search term</string>
+
+    <!-- Actions -->
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- Misc -->
+    <string name="unknown_source">Unknown Source</string>
+    <string name="article_bookmarked">Article bookmarked</string>
+    <string name="bookmark_removed">Bookmark removed</string>
+    <string name="content_description_article_image">Article image</string>
+    <string name="content_description_back">Go back</string>
+</resources>
