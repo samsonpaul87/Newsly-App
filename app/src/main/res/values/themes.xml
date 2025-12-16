@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Base Theme -->
-    <style name="Theme.Newsly" parent="Theme.Material3.Light.NoActionBar">
+    <style name="Theme.Newsly" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary -->
         <item name="colorPrimary">@color/primary</item>
         <item name="colorPrimaryVariant">@color/primary_variant</item>

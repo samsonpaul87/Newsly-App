@@ -1,0 +1,334 @@
+{
+  "version": "1.0",
+  "last_scan": "2025-12-16T16:34:01.878344",
+  "files": {
+    "build.gradle.kts": {
+      "_default": "app/build.gradle.kts"
+    },
+    "settings.gradle.kts": {
+      "_default": "settings.gradle.kts"
+    },
+    "NewsRepositoryTest.kt": {
+      "com.newsly.app.repository": "app/src/test/java/com/newsly/app/repository/NewsRepositoryTest.kt"
+    },
+    "BookmarkRepositoryTest.kt": {
+      "com.newsly.app.repository": "app/src/test/java/com/newsly/app/repository/BookmarkRepositoryTest.kt"
+    },
+    "HomeViewModelTest.kt": {
+      "com.newsly.app.viewmodel": "app/src/test/java/com/newsly/app/viewmodel/HomeViewModelTest.kt"
+    },
+    "BookmarksViewModelTest.kt": {
+      "com.newsly.app.viewmodel": "app/src/test/java/com/newsly/app/viewmodel/BookmarksViewModelTest.kt"
+    },
+    "AndroidManifest.xml": {
+      "_default": "app/src/main/AndroidManifest.xml"
+    },
+    "ic_launcher.xml": {
+      "_default": "app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    "ic_launcher_round.xml": {
+      "_default": "app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    "fragment_bookmarks.xml": {
+      "_default": "app/src/main/res/layout/fragment_bookmarks.xml"
+    },
+    "fragment_home.xml": {
+      "_default": "app/src/main/res/layout/fragment_home.xml"
+    },
+    "activity_main.xml": {
+      "_default": "app/src/main/res/layout/activity_main.xml"
+    },
+    "item_article.xml": {
+      "_default": "app/src/main/res/layout/item_article.xml"
+    },
+    "item_article_skeleton.xml": {
+      "_default": "app/src/main/res/layout/item_article_skeleton.xml"
+    },
+    "activity_article_detail.xml": {
+      "_default": "app/src/main/res/layout/activity_article_detail.xml"
+    },
+    "themes.xml": {
+      "_default": "app/src/main/res/values/themes.xml"
+    },
+    "dimens.xml": {
+      "_default": "app/src/main/res/values/dimens.xml"
+    },
+    "colors.xml": {
+      "_default": "app/src/main/res/values/colors.xml"
+    },
+    "strings.xml": {
+      "_default": "app/src/main/res/values/strings.xml"
+    },
+    "nav_graph.xml": {
+      "_default": "app/src/main/res/navigation/nav_graph.xml"
+    },
+    "ic_bookmark.xml": {
+      "_default": "app/src/main/res/drawable/ic_bookmark.xml"
+    },
+    "bg_button.xml": {
+      "_default": "app/src/main/res/drawable/bg_button.xml"
+    },
+    "gradient_scrim.xml": {
+      "_default": "app/src/main/res/drawable/gradient_scrim.xml"
+    },
+    "placeholder_image.xml": {
+      "_default": "app/src/main/res/drawable/placeholder_image.xml"
+    },
+    "ic_share.xml": {
+      "_default": "app/src/main/res/drawable/ic_share.xml"
+    },
+    "bg_card.xml": {
+      "_default": "app/src/main/res/drawable/bg_card.xml"
+    },
+    "ic_splash_icon.xml": {
+      "_default": "app/src/main/res/drawable/ic_splash_icon.xml"
+    },
+    "bg_shimmer.xml": {
+      "_default": "app/src/main/res/drawable/bg_shimmer.xml"
+    },
+    "ic_error.xml": {
+      "_default": "app/src/main/res/drawable/ic_error.xml"
+    },
+    "ic_empty.xml": {
+      "_default": "app/src/main/res/drawable/ic_empty.xml"
+    },
+    "ic_open_browser.xml": {
+      "_default": "app/src/main/res/drawable/ic_open_browser.xml"
+    },
+    "ic_back.xml": {
+      "_default": "app/src/main/res/drawable/ic_back.xml"
+    },
+    "ic_home.xml": {
+      "_default": "app/src/main/res/drawable/ic_home.xml"
+    },
+    "ic_bookmark_outline.xml": {
+      "_default": "app/src/main/res/drawable/ic_bookmark_outline.xml"
+    },
+    "bottom_nav_menu.xml": {
+      "_default": "app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    "NewslyApp.kt": {
+      "com.newsly.app": "app/src/main/java/com/newsly/app/NewslyApp.kt"
+    },
+    "UiState.kt": {
+      "com.newsly.app.presentation.state": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt"
+    },
+    "ArticleUiMapper.kt": {
+      "com.newsly.app.presentation.state": "app/src/main/java/com/newsly/app/presentation/state/ArticleUiMapper.kt"
+    },
+    "HomeViewModel.kt": {
+      "com.newsly.app.presentation.viewmodel": "app/src/main/java/com/newsly/app/presentation/viewmodel/HomeViewModel.kt"
+    },
+    "BookmarksViewModel.kt": {
+      "com.newsly.app.presentation.viewmodel": "app/src/main/java/com/newsly/app/presentation/viewmodel/BookmarksViewModel.kt"
+    },
+    "ArticleDetailViewModel.kt": {
+      "com.newsly.app.presentation.viewmodel": "app/src/main/java/com/newsly/app/presentation/viewmodel/ArticleDetailViewModel.kt"
+    },
+    "RepositoryModule.kt": {
+      "com.newsly.app.di": "app/src/main/java/com/newsly/app/di/RepositoryModule.kt"
+    },
+    "NetworkModule.kt": {
+      "com.newsly.app.di": "app/src/main/java/com/newsly/app/di/NetworkModule.kt"
+    },
+    "DatabaseModule.kt": {
+      "com.newsly.app.di": "app/src/main/java/com/newsly/app/di/DatabaseModule.kt"
+    },
+    "BookmarkRepositoryImpl.kt": {
+      "com.newsly.app.data.repository": "app/src/main/java/com/newsly/app/data/repository/BookmarkRepositoryImpl.kt"
+    },
+    "NewsRepositoryImpl.kt": {
+      "com.newsly.app.data.repository": "app/src/main/java/com/newsly/app/data/repository/NewsRepositoryImpl.kt"
+    },
+    "NewsRepository.kt": {
+      "com.newsly.app.domain.repository": "app/src/main/java/com/newsly/app/domain/repository/NewsRepository.kt"
+    },
+    "GetBookmarksUseCase.kt": {
+      "com.newsly.app.domain.usecase": "app/src/main/java/com/newsly/app/domain/usecase/GetBookmarksUseCase.kt"
+    },
+    "ToggleBookmarkUseCase.kt": {
+      "com.newsly.app.domain.usecase": "app/src/main/java/com/newsly/app/domain/usecase/ToggleBookmarkUseCase.kt"
+    },
+    "IsArticleBookmarkedUseCase.kt": {
+      "com.newsly.app.domain.usecase": "app/src/main/java/com/newsly/app/domain/usecase/IsArticleBookmarkedUseCase.kt"
+    },
+    "GetTopHeadlinesUseCase.kt": {
+      "com.newsly.app.domain.usecase": "app/src/main/java/com/newsly/app/domain/usecase/GetTopHeadlinesUseCase.kt"
+    },
+    "SearchNewsUseCase.kt": {
+      "com.newsly.app.domain.usecase": "app/src/main/java/com/newsly/app/domain/usecase/SearchNewsUseCase.kt"
+    },
+    "Article.kt": {
+      "com.newsly.app.domain.model": "app/src/main/java/com/newsly/app/domain/model/Article.kt"
+    }
+  },
+  "packages": {
+    "com.newsly.app.repository": "app/src/test/java/com/newsly/app/repository",
+    "com.newsly.app.viewmodel": "app/src/test/java/com/newsly/app/viewmodel",
+    "com.newsly.app": "app/src/main/java/com/newsly/app",
+    "com.newsly.app.presentation.state": "app/src/main/java/com/newsly/app/presentation/state",
+    "com.newsly.app.presentation.viewmodel": "app/src/main/java/com/newsly/app/presentation/viewmodel",
+    "com.newsly.app.di": "app/src/main/java/com/newsly/app/di",
+    "com.newsly.app.data.repository": "app/src/main/java/com/newsly/app/data/repository",
+    "com.newsly.app.domain.repository": "app/src/main/java/com/newsly/app/domain/repository",
+    "com.newsly.app.domain.usecase": "app/src/main/java/com/newsly/app/domain/usecase",
+    "com.newsly.app.domain.model": "app/src/main/java/com/newsly/app/domain/model"
+  },
+  "signatures": {
+    "NewsRepositoryTest": {
+      "package": "com.newsly.app.repository",
+      "path": "app/src/test/java/com/newsly/app/repository/NewsRepositoryTest.kt",
+      "type": "Repository"
+    },
+    "BookmarkRepositoryTest": {
+      "package": "com.newsly.app.repository",
+      "path": "app/src/test/java/com/newsly/app/repository/BookmarkRepositoryTest.kt",
+      "type": "Repository"
+    },
+    "HomeViewModelTest": {
+      "package": "com.newsly.app.viewmodel",
+      "path": "app/src/test/java/com/newsly/app/viewmodel/HomeViewModelTest.kt",
+      "type": "ViewModel"
+    },
+    "BookmarksViewModelTest": {
+      "package": "com.newsly.app.viewmodel",
+      "path": "app/src/test/java/com/newsly/app/viewmodel/BookmarksViewModelTest.kt",
+      "type": "ViewModel"
+    },
+    "for": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "Class"
+    },
+    "NewslyApp": {
+      "package": "com.newsly.app",
+      "path": "app/src/main/java/com/newsly/app/NewslyApp.kt",
+      "type": "Class"
+    },
+    "representing": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "SealedClass"
+    },
+    "UiState": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "SealedClass"
+    },
+    "Loading": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "Object"
+    },
+    "Success": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "DataClass"
+    },
+    "Error": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "DataClass"
+    },
+    "HomeUiState": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "SealedClass"
+    },
+    "Empty": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "Object"
+    },
+    "BookmarksUiState": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "SealedClass"
+    },
+    "DetailUiState": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "SealedClass"
+    },
+    "ArticleUiModel": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/UiState.kt",
+      "type": "DataClass"
+    },
+    "ArticleUiMapper": {
+      "package": "com.newsly.app.presentation.state",
+      "path": "app/src/main/java/com/newsly/app/presentation/state/ArticleUiMapper.kt",
+      "type": "Object"
+    },
+    "HomeViewModel": {
+      "package": "com.newsly.app.presentation.viewmodel",
+      "path": "app/src/main/java/com/newsly/app/presentation/viewmodel/HomeViewModel.kt",
+      "type": "ViewModel"
+    },
+    "BookmarksViewModel": {
+      "package": "com.newsly.app.presentation.viewmodel",
+      "path": "app/src/main/java/com/newsly/app/presentation/viewmodel/BookmarksViewModel.kt",
+      "type": "ViewModel"
+    },
+    "ArticleDetailViewModel": {
+      "package": "com.newsly.app.presentation.viewmodel",
+      "path": "app/src/main/java/com/newsly/app/presentation/viewmodel/ArticleDetailViewModel.kt",
+      "type": "ViewModel"
+    },
+    "RepositoryModule": {
+      "package": "com.newsly.app.di",
+      "path": "app/src/main/java/com/newsly/app/di/RepositoryModule.kt",
+      "type": "Repository"
+    },
+    "NetworkModule": {
+      "package": "com.newsly.app.di",
+      "path": "app/src/main/java/com/newsly/app/di/NetworkModule.kt",
+      "type": "Object"
+    },
+    "DatabaseModule": {
+      "package": "com.newsly.app.di",
+      "path": "app/src/main/java/com/newsly/app/di/DatabaseModule.kt",
+      "type": "Object"
+    },
+    "BookmarkRepositoryImpl": {
+      "package": "com.newsly.app.data.repository",
+      "path": "app/src/main/java/com/newsly/app/data/repository/BookmarkRepositoryImpl.kt",
+      "type": "Repository"
+    },
+    "NewsRepositoryImpl": {
+      "package": "com.newsly.app.data.repository",
+      "path": "app/src/main/java/com/newsly/app/data/repository/NewsRepositoryImpl.kt",
+      "type": "Repository"
+    },
+    "GetBookmarksUseCase": {
+      "package": "com.newsly.app.domain.usecase",
+      "path": "app/src/main/java/com/newsly/app/domain/usecase/GetBookmarksUseCase.kt",
+      "type": "Class"
+    },
+    "ToggleBookmarkUseCase": {
+      "package": "com.newsly.app.domain.usecase",
+      "path": "app/src/main/java/com/newsly/app/domain/usecase/ToggleBookmarkUseCase.kt",
+      "type": "Class"
+    },
+    "IsArticleBookmarkedUseCase": {
+      "package": "com.newsly.app.domain.usecase",
+      "path": "app/src/main/java/com/newsly/app/domain/usecase/IsArticleBookmarkedUseCase.kt",
+      "type": "Class"
+    },
+    "GetTopHeadlinesUseCase": {
+      "package": "com.newsly.app.domain.usecase",
+      "path": "app/src/main/java/com/newsly/app/domain/usecase/GetTopHeadlinesUseCase.kt",
+      "type": "Class"
+    },
+    "SearchNewsUseCase": {
+      "package": "com.newsly.app.domain.usecase",
+      "path": "app/src/main/java/com/newsly/app/domain/usecase/SearchNewsUseCase.kt",
+      "type": "Class"
+    },
+    "Article": {
+      "package": "com.newsly.app.domain.model",
+      "path": "app/src/main/java/com/newsly/app/domain/model/Article.kt",
+      "type": "DataClass"
+    }
+  }
+}
