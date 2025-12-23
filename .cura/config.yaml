@@ -1,30 +1,11 @@
-# CURA Configuration
-_version: "2.6"
-
-# Project
-project_type: android  # android | node
-
-# Crash Source (pick one)
-crash_provider: sentry  # manual | sentry | firebase
-
-# Sentry Config (if crash_provider = sentry)
+_version: '2.7'
+enable_tracing: true
+mode: production
+crash_provider: sentry
 sentry:
-  org: "grace-studios"
-  project: "newsly-android"
-
-# Firebase Config (if crash_provider = firebase)
-firebase:
-  app_id: ""
-  project_id: ""
-
-# Output
+  org: grace-studios
+  project: newsly-android
+repository_provider: github
 github:
   repo: samsonpaul87/Newsly-App
   branch: main
-
-# LLM
-llm:
-  model: claude-sonnet-4-20250514
-  temperature: 0.0
-  top_p: 1.0
-  max_tokens: 2048
