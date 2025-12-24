@@ -1,5 +1,6 @@
 _version: '2.7'
 enable_tracing: true
+platform: android
 mode: production
 crash_provider: sentry
 sentry:
