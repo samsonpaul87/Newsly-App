@@ -1,0 +1,12 @@
+_version: '2.7'
+enable_tracing: true
+platform: android
+mode: production
+crash_provider: sentry
+sentry:
+  org: grace-studios
+  project: newsly-android
+repository_provider: github
+github:
+  repo: samsonpaul87/Newsly-App
+  branch: main
