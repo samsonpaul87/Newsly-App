@@ -86,3 +86,9 @@ sentry.properties
 
 # Sentry Wizard binary
 sentry-wizard
+
+# NPC cache
+.npc/
+
+# NPM cache
+.npm_cache/
