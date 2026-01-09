@@ -92,3 +92,6 @@ sentry-wizard
 
 # NPM cache
 .npm_cache/
+
+# CURA
+.cura/
