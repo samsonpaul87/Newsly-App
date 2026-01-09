@@ -86,3 +86,6 @@ sentry.properties
 
 # Sentry Wizard binary
 sentry-wizard
+
+# CURA (auto-added by setup wizard)
+.cura/
